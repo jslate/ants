@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.2 r9819"
-   sodipodi:docname="New document 1">
+   sodipodi:docname="drawing.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -24,7 +24,7 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
+     inkscape:zoom="0.35"
      inkscape:cx="196.203"
      inkscape:cy="520"
      inkscape:document-units="px"
@@ -32,8 +32,8 @@
      showgrid="false"
      inkscape:window-width="1680"
      inkscape:window-height="1002"
-     inkscape:window-x="1440"
-     inkscape:window-y="22"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata7">
@@ -52,7 +52,10 @@
      inkscape:groupmode="layer"
      id="layer1">
     <g
-       id="g3782">
+       id="g3782"
+       inkscape:export-filename="/Users/jonathanslate/code/ants/media/ant.png"
+       inkscape:export-xdpi="31.397423"
+       inkscape:export-ydpi="31.397423">
       <path
          d="m 307.08636,330.10312 a 13.131983,13.131983 0 1 1 -26.26397,0 13.131983,13.131983 0 1 1 26.26397,0 z"
          sodipodi:ry="13.131983"
@@ -130,5 +133,25 @@
          d="m 300.01531,323.03204 8.08122,-28.28427"
          style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none" />
     </g>
+    <rect
+       style="fill:#eeffd4;fill-opacity:1;stroke:none"
+       id="rect3816"
+       width="900"
+       height="675"
+       x="128.28937"
+       y="581.6311"
+       inkscape:export-filename="/Users/jonathanslate/code/ants/media/background.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#ff339f;fill-opacity:1;stroke:none"
+       id="rect3818"
+       width="40"
+       height="40"
+       x="-497.14285"
+       y="238.07646"
+       inkscape:export-filename="/Users/jonathanslate/code/ants/media/food.png"
+       inkscape:export-xdpi="22.5"
+       inkscape:export-ydpi="22.5" />
   </g>
 </svg>
