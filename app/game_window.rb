@@ -34,9 +34,6 @@ class GameWindow < Gosu::Window
     end
     @moves = 0
     @pheromone_map = PheromoneMap.new(WIDTH, HEIGHT, 50)
-    # WIDTH.times do |i|
-    #   @pheromone_map.increment(i, HEIGHT/2)
-    # end
   end
 
   def draw
